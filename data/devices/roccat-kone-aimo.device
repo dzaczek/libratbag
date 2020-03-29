@@ -1,0 +1,4 @@
+[Device]
+Name=Roccat Kone Aimo
+DeviceMatch=usb:1e7d:2e27
+Driver=roccat
